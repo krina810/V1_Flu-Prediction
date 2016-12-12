@@ -67,7 +67,7 @@ for Smart City</p>
 <!-- mail -->
 	<div class="mail" id="mail">
 		<div class="container">
-        <div style="margin:0 auto;" class="cont_left col-md-6 ">
+        <div class="cont_left col-md-6 ">
         <h2>Real-time Data Sharing and Big Data Analysis
 
 for Smart City</h2>
@@ -113,6 +113,7 @@ for Smart City</h2>
 					<div class="w3_updates_bottom_grid1">
 						<p class="counter">1.405432</p> 
 						<h4>% Weighted Flu Tweets</h4>
+                        <h5 style="color:#36DD7F">Predicted ILI</h5>
 					</div>
 				</div>
 				
