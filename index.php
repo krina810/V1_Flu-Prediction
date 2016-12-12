@@ -67,7 +67,7 @@ for Smart City</p>
 <!-- mail -->
 	<div class="mail" id="mail">
 		<div class="container">
-        <div class="cont_left col-md-6 ">
+        <div style="margin:0 auto;" class="cont_left col-md-6 ">
         <h2>Real-time Data Sharing and Big Data Analysis
 
 for Smart City</h2>
@@ -106,7 +106,7 @@ for Smart City</h2>
 					<div class="w3_updates_bottom_grid1">
 						<p class="counter">2590</p> 
 						<h4>Tweets ontaining 'flu' keywords</h4>
-                        <h5 style="color:blue">Last 7 Days</h5>
+                        <h5 style="color:#36DD7F">Last 7 Days</h5>
 					</div>
 				</div>
 				<div class="col-md-3 w3_updates_bottom_grid">
