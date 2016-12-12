@@ -97,34 +97,28 @@ for Smart City</h2>
 		<div class="container" style="background:#000; opacity:0.7;padding:3.5em 0; width:100%;" >
 			<h3>Tweets colected from Twitter API and Total Data Collected and analysis</h3>
 			<div class="w3_updates_bottom_grids">
-				<div class="col-md-3 w3_updates_bottom_grid">
+				<div class="col-md-4 w3_updates_bottom_grid">
 					<div class="w3_updates_bottom_grid1">
 						<p class="counter">184354</p> 
 						<h4>Total Tweets</h4>
                         <h5> </h5>
 					</div>
 				</div>
-				<div class="col-md-3 w3_updates_bottom_grid">
+				<div class="col-md-4 w3_updates_bottom_grid">
 					<div class="w3_updates_bottom_grid1">
 						<p class="counter">2590</p> 
 						<h4>Tweets ontaining 'flu' keywords</h4>
                         <h5 style="color:#36DD7F">Last 7 Days</h5>
 					</div>
 				</div>
-				<div class="col-md-3 w3_updates_bottom_grid">
+				<div class="col-md-4 w3_updates_bottom_grid">
 					<div class="w3_updates_bottom_grid1">
 						<p class="counter">1.405432</p> 
 						<h4>% Weighted Flu Tweets</h4>
                         <h5 style="color:#36DD7F">Predicted ILI</h5>
 					</div>
 				</div>
-                <div class="col-md-3 w3_updates_bottom_grid">
-					<div class="w3_updates_bottom_grid1">
-						<p class="counter">1.405432</p> 
-						<h4>% Weighted Flu Tweets</h4>
-                        <h5 style="color:#36DD7F">Predicted ILI</h5>
-					</div>
-				</div>
+            
 				
 				<div class="clearfix"> </div>
 
