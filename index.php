@@ -106,7 +106,7 @@ for Smart City</h2>
 					<div class="w3_updates_bottom_grid1">
 						<p class="counter">2590</p> 
 						<h4>Tweets ontaining 'flu' keywords</h4>
-                        <h5>Last 7 Days</h5>
+                        <h5 style="color:'blue'">Last 7 Days</h5>
 					</div>
 				</div>
 				<div class="col-md-3 w3_updates_bottom_grid">
