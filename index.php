@@ -101,7 +101,7 @@ for Smart City</h2>
 					<div class="w3_updates_bottom_grid1">
 						<p class="counter">153243</p> 
 						<h4>Total Tweets</h4>
-                        <h5> </h5>
+                         <h5 style="color:#36DD7F">Last 7 Days</h5>
 					</div>
 				</div>
 				<div class="col-md-4 w3_updates_bottom_grid">
